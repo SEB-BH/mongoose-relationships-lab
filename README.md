@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Intro to Mongoose Lab</span>
+  <span class="headline">Mongoose Relationships Lab</span>
 </h1>
 
 ## About
