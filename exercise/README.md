@@ -94,7 +94,7 @@ Remember:
 
 # Part 2 - Create the Project
 
-- Use our [Starter Document](https://docs.google.com/document/d/1Eb2dt8VIgTgnjdV_hSvGb81stB5H9_MnmYaPk-pQNh4/edit?usp=sharing) to set up a new application so we can start creating the app for the client
+- Use our [Starter Document](https://docs.google.com/document/d/1Skjcc3gQG1lPhW5qCw8wfAzoI5W1oYvjGt4KqD_fUr4/edit?usp=sharing) to set up a new application so we can start creating the app for the client
 
 ---
 
